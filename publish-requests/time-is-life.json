@@ -1,0 +1,10 @@
+{
+  "schema": "4th-season.public-article-request/v1",
+  "operation": "CONTENT_ADD",
+  "article_id": "QUOTE-PRESTIGE-THEME-109",
+  "slug": "time-is-life",
+  "parent_map": "learn/quote-prestige/series",
+  "cover": "assets/quote-prestige/time-is-life-cover.webp",
+  "marker": "QP_PUBLIC15_109_TIME_IS_LIFE_20261117_V1",
+  "job_id": "QP109-PUBLIC15-CONTENT-ADD-20261117-001"
+}
