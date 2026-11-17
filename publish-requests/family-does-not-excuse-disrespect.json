@@ -1,0 +1,10 @@
+{
+  "schema": "4th-season.public-article-request/v1",
+  "operation": "CONTENT_ADD",
+  "article_id": "QUOTE-PRESTIGE-THEME-110",
+  "slug": "family-does-not-excuse-disrespect",
+  "parent_map": "learn/quote-prestige/series",
+  "cover": "assets/quote-prestige/family-does-not-excuse-disrespect-cover.webp",
+  "marker": "QP_PUBLIC15_110_FAMILY_RESPECT_20261117_V1",
+  "job_id": "QP110-PUBLIC15-CONTENT-ADD-20261117-001"
+}
